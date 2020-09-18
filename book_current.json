@@ -1,0 +1,19 @@
+{
+  "title": "多媒体业务核心子系统：IMS",
+  "description": "总结移动网络中用于实现多媒体业务的核心子系统IMS，包括IMS的概况，总体架构，核心元素比如AS、CSCF、HSS、MRF、BGCF、MGCF、BGF等，相关组织和协议，包括ETSI、NGN、TISPAN、SIP、用户认证相关、SBC等，以及基于IMS的技术如VoLTE、RCS、ViLTE、VoWiFi等，最后总结相关名词术语。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "multimedia_core_system_ims"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/multimedia_core_system_ims/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/multimedia_core_system_ims/pdf/multimedia_core_system_ims.pdf"
+    }
+  }
+}
